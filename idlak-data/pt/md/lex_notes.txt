@@ -1,0 +1,24 @@
+-words with two primary stresses:
+comboio-correio k on0 b o1 j u0 k u0 rr aa1 j u0
+data-valor d a1 t aa0 v aa0 l oo1 r
+gira-discos x i1 r aa0 d i1 sh k u0 sh
+hierarquizado j e0 r a1 r k i0 z a1 d u0
+hierarquização j e0 r a1 r k i0 z aa0 s aa1 un0
+mãezinha m aa1 en0 z i1 ny aa0
+papagaio-do-mar p aa0 p aa0 g a1 j u0 d u0 m a1 r
+perpetuar p @0 r p e1 t w a1 r
+
+Updated manualy in final lex xml, based on Portalportuguese and consulting native speakers (note IPA version was not changed):
+comboio-correio k on0 b o2 j u0 k u0 rr aa1 j u0
+data-valor d a2 t aa0 v aa0 l oo1 r
+gira-discos x i2 r aa0 d i1 sh k u0 sh
+hierarquizado j e0 r a2 r k i0 z a1 d u0
+hierarquização j e0 r a2 r k i0 z aa0 s aa1 un0
+mãezinha m aa2 en0 z i1 ny aa0
+papagaio-do-mar p aa0 p aa0 g a2 j u0 d u0 m a1 r
+perpetuar p @0 r p e1 t w a1 r
+
+Hyphen fix
+Removed the follwing words:
+provenance="LUPO hyphen split">circum</lex>
+  <lex default="True" entry="1" ipa="ko" part="" recid="" pron="" provenance="LUPO hyphen split">co</lex>
