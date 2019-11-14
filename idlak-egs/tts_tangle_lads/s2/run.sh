@@ -13,10 +13,10 @@ TMPDIR=/tmp
 stage=-1
 endstage=7
 nj=4 # max 9
-lng="ru"
-acc="ru"
+lng="pt"
+acc="md"
 # Speaker ID
-spks="abr" # Must be a speaker from the Idlak Resources
+spks="etr" # Must be a speaker from the Idlak Resources
 network_type=dnn # dnn or lstm
 nodev=50 # the number of samples used for calculating loss
          # the remaining will be in the training set.
